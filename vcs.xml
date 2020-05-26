@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.ubiservices.ubi.com" />
           <option name="userName" value="oleksandr.medviediev@ubisoft.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-ncsa.ubisoft.org" />
+          <option name="userName" value="omedviediev" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
